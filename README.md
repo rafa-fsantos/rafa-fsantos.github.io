@@ -37,12 +37,12 @@ O layout segue uma abordagem moderna, com um design clean e responsivo, permitin
 
 ## 📂 Estrutura do Projeto
 
-css/: Contém os arquivos de dados para estilização das páginas.
-cv/: Contém o Currículo Vitae.
-fonts/: Contém as fontes utilizadas no projeto.
-images/: Contém todas as imagens do projeto.
-js/: Contém os scripts de interatividade.
-index.html: página principal do projeto.
+- css/: Contém os arquivos de dados para estilização das páginas.
+- cv/: Contém o Currículo Vitae.
+- fonts/: Contém as fontes utilizadas no projeto.
+- images/: Contém todas as imagens do projeto.
+- js/: Contém os scripts de interatividade.
+- index.html: página principal do projeto.
 
 ## 📋 Como Contribuir/se inspirar
 
