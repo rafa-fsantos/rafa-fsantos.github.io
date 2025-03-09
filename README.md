@@ -6,6 +6,22 @@ Este repositório contém o código-fonte de uma página web desenvolvida em HTM
 
 A página web foi projetada para apresentar informações profissionais, habilidades, experiência e projetos desenvolvidos, proporcionando uma forma interativa e visualmente atrativa de demonstrar conhecimento na área de dados.
 
+## 🎨 Layout
+
+O layout segue uma abordagem moderna, com um design clean e responsivo, permitindo uma boa experiência do usuário tanto em desktops quanto em dispositivos móveis.
+
+### Tela inicial
+![Ínicio](images/inicio.png "Tela de Ínicio")
+
+### Currículo
+![Currículo](images/curriculo.png "Educação e Experiência profissional")
+
+### Habilidades
+![Habilidades](images/habilidades.png "Ferramentas e bibliotecas")
+
+### Portfólio
+![Portfólio](images/portfolio.png "Projetos desenvolvidos e em andamento")
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura da página
@@ -27,11 +43,6 @@ fonts/: Contém as fontes utilizadas no projeto.
 images/: Contém todas as imagens do projeto.
 js/: Contém os scripts de interatividade.
 index.html: página principal do projeto.
-
-
-## 🎨 Layout
-
-O layout segue uma abordagem moderna, com um design clean e responsivo, permitindo uma boa experiência do usuário tanto em desktops quanto em dispositivos móveis.
 
 ## 📋 Como Contribuir/se inspirar
 
