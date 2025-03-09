@@ -19,29 +19,30 @@ A página web foi projetada para apresentar informações profissionais, habilid
 - Seção de contato com links para redes sociais
 - Design responsivo para diferentes dispositivos
 
-## 📚 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
-```
-/
-|-- index.html      # Página principal
-|-- css/
-|   |-- styles.css  # Estilização da página
-|-- js/
-|   |-- script.js   # Scripts de interatividade
-|-- assets/
-|   |-- img/       # Imagens utilizadas no site
-```
+css/: Contém os arquivos de dados para estilização das páginas.
+cv/: Contém o Currículo Vitae.
+fonts/: Contém as fontes utilizadas no projeto.
+images/: Contém todas as imagens do projeto.
+js/: Contém os scripts de interatividade.
+index.html: página principal do projeto.
+
 
 ## 🎨 Layout
 
 O layout segue uma abordagem moderna, com um design clean e responsivo, permitindo uma boa experiência do usuário tanto em desktops quanto em dispositivos móveis.
 
-## 💌 Contato
+## 📋 Como Contribuir/se inspirar
 
-Caso queira entrar em contato, envie um e-mail para [mfa.rafael@gmail.com] ou conecte-se através do [LinkedIn](www.linkedin.com/in/rafa-fsantos)
+1. Faça um fork, ou clone o repositório.  
+2. Crie uma branch para a sua feature: `git checkout -b minha-feature`.  
+3. Commit suas alterações: `git commit -m 'Adicionar nova feature'`.  
+4. Submeta um pull request.  
 
-).
+## 📜 Licença
 
+Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 ---
 
 Esperamos que este projeto ajude na sua jornada profissional! 🚀
